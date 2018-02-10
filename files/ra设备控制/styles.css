@@ -892,28 +892,30 @@
   left:0px;
   top:0px;
   width:100px;
-  height:20px;
+  height:21px;
   background:inherit;
-  background-color:rgba(242, 242, 242, 1);
+  background-color:rgba(204, 204, 204, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  color:#FFFFFF;
 }
 .u268 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:80px;
+  top:79px;
   width:100px;
-  height:20px;
+  height:21px;
+  color:#FFFFFF;
 }
 .u269 {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:2px;
+  top:3px;
   width:96px;
   word-wrap:break-word;
 }
