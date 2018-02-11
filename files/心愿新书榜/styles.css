@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:375px;
+  width:830px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -623,4 +623,56 @@
   top:0px;
   width:219px;
   white-space:nowrap;
+}
+#u727_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:135px;
+  height:2px;
+}
+#u727 {
+  border-width:0px;
+  position:absolute;
+  left:375px;
+  top:120px;
+  width:134px;
+  height:1px;
+}
+#u728 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:-8px;
+  width:130px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u729_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:321px;
+  height:46px;
+}
+#u729 {
+  border-width:0px;
+  position:absolute;
+  left:509px;
+  top:106px;
+  width:321px;
+  height:46px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+}
+#u730 {
+  border-width:0px;
+  position:absolute;
+  left:10px;
+  top:6px;
+  width:301px;
+  word-wrap:break-word;
 }
